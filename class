@@ -1,7 +1,9 @@
 class integers{
 public static void main (string() arguments){
 
-  fo(c=1; c<=10; c++ )
-  system.out.p[rinlin(c)
-}
+  for(c = 1; c <= 10; c++ )
+  system.out.prinlin(c);{
+  
+    }
+  }
 }
