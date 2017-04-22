@@ -1,0 +1,8 @@
+class Forloop {
+  public static void(string[] args){
+  int c;
+    for(c=1; c<=10; c++){
+    system.out.prinlin(c);
+    }
+  }
+}
